@@ -24,13 +24,13 @@ WooCommerce Manager enables the easiest way to manage your WooCommerce store and
 5) Subscription button
 
 **Manage Style on ‘Single product page’
-1)Single product title
-Text color
-Font size
-Text transform
-Decoration color
-Text Decoration
-Letter spacing
+1) Single product title
+-> Text color
+-> Font size
+-> Text transform
+-> Decoration color
+-> Text Decoration
+-> Letter spacing
 2) Single Product short description
 
 ## Upcoming (very soon)
