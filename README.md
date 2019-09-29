@@ -25,22 +25,25 @@ WooCommerce Manager enables the easiest way to manage your WooCommerce store and
 
 **Manage Style on ‘Single product page’
 1)Single product title
-=>Text color
-=>Font size
-=>Text transform
-=>Decoration color
-=>Text Decoration
-=>Letter spacing
+>Text color
+>Font size
+>Text transform
+>Decoration color
+>Text Decoration
+>Letter spacing
 2) Single Product short description
 
 ## Upcoming (very soon)
-=>Add custom fields
-=>Edit registered WooCommerce Fields
-=>Change order of Fields
+>Add custom fields
+>Edit registered WooCommerce Fields
+>Change order of Fields
 
 ## Minimum Requirement
  - PHP 5.6
  - WordPress 4.4+
+ 
+ ## Dependency 
+ WooCommerce plugin
 
 ## Installation
 
